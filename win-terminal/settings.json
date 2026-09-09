@@ -18,7 +18,7 @@
             "id": "User.newTab.5DEADB41"
         }
     ],
-    "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "defaultProfile": "{90cbdc15-f4fe-49d2-a245-ec066b70845f}",
     "initialCols": 170,
     "initialPosition": "30,30",
     "initialRows": 40,
@@ -38,11 +38,11 @@
         },
         {
             "id": null,
-            "keys": "ctrl+5"
+            "keys": "ctrl+1"
         },
         {
             "id": null,
-            "keys": "ctrl+1"
+            "keys": "ctrl+5"
         },
         {
             "id": null,
@@ -50,11 +50,11 @@
         },
         {
             "id": null,
-            "keys": "ctrl+4"
+            "keys": "ctrl+3"
         },
         {
             "id": null,
-            "keys": "ctrl+3"
+            "keys": "ctrl+4"
         },
         {
             "id": null,
